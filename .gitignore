@@ -1,0 +1,11 @@
+.coverage
+.installed.cfg
+.mr.developer.cfg
+bin
+develop-eggs
+htmlcov
+parts
+src
+var
+*project*
+db.sqlite3

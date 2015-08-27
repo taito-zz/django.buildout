@@ -9,3 +9,4 @@ src
 var
 *project*
 db.sqlite3
+*.pyc
